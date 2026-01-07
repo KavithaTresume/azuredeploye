@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e1771127-85ea-41cb-85b1-a01d645497ee/resourceGroups/sampleresouregrpfrontend/providers/Microsoft.Web/sites/TresumeATS",
+    "appService.deploySubpath": "dist"
+}
